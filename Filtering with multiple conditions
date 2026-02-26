@@ -1,0 +1,1 @@
+SELECT * FROM Employees WHERE Department = 'Sales' AND Salary > 4000;
